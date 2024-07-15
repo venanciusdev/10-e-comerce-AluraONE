@@ -1,2 +1,3 @@
 # e-comerce-AluraONE
-This project consists of a basic e-commerce platform developed for selling products geared towards the gaming universe. Using web technologies such as HTML, CSS, and JavaScript, the site provides an intuitive and responsive shopping experience.
+Este projeto consiste em um e-commerce básico desenvolvido para venda de produtos voltados para o universo gamer. Utilizando tecnologias web como HTML, CSS e JavaScript, o site proporciona uma experiência de compra intuitiva e responsiva.
+<img src='Site e-comerce.png'>
